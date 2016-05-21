@@ -1,0 +1,48 @@
+.top {
+    background-color:#e7e4e4;
+}
+
+h1.top {
+	text-decoration:underline;
+    color: #e14f4f;
+    text-align: center;
+    font-size: 40px;
+}
+
+p.top {
+	color: black;
+    font-family: "Times New Roman";
+    text-align: center;
+    font-size: 20px;
+}
+ .bottom
+ {
+
+ 	background-color:#e14f4f;
+ 	color:#e7e4e4;
+ }
+
+ h1.bottom{
+ 	color: black;
+    font-size: 30px;
+ }
+
+ p.bottom{
+ 	color: #e7e4e4;
+    font-size: 20px;
+ }
+p.contact{
+	margin: 2em;
+}
+ h2{
+ 	color:#e7e4e4;
+    font-size: 21px;
+ }
+#imageStyle {
+	position: relative;
+	width:50%;
+	height:50%;
+	display: block;
+	margin-left:auto;
+	margin-right: auto;
+}
